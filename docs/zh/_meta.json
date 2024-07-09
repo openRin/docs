@@ -1,0 +1,12 @@
+[
+  {
+    "text": "指南",
+    "link": "/guide/",
+    "activeMatch": "/guide/"
+  },
+  {
+    "text": "环境变量",
+    "link": "/env/",
+    "activeMatch": "/env/"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "text": "Guide",
+    "link": "/en/guide/",
+    "activeMatch": "/guide/"
+  },
+  {
+    "text": "Env",
+    "link": "/en/env/",
+    "activeMatch": "/env/"
+  }
+]
